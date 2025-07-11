@@ -6,3 +6,5 @@ venv/
 .idea/
 data/account.session
 config.ini
+.vscode
+.config.ini
